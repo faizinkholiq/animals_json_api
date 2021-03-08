@@ -1,2 +1,3 @@
 # animals_json_api
-JSON API for fake rest server 
+Fake Rest Server => https://my-json-server.typicode.com/
+Data Generator => https://www.mockaroo.com/
