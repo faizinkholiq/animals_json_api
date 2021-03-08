@@ -1,5 +1,5 @@
 {
-  animals: [
+  "animals": [
     {"id":1,"name":"Jennifer","type":"Tortoise, radiated","color":"Orange","country":"China"},
     {"id":2,"name":"Armando","type":"Squirrel, eastern fox","color":"Crimson","country":"Afghanistan"},
     {"id":3,"name":"Welsh","type":"Crake, african black","color":"Puce","country":"Finland"},
